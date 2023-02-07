@@ -19,4 +19,4 @@
 - 實務練習
 
 #### 課程大綱
-- [1. 函數](http://mirdex.github.io/PythonII_20230208/7.%20函數.slides.html)
+- [1. 函數](http://mirdex.github.io/PythonII_20230208/7.%20函數_Q.slides.html)
