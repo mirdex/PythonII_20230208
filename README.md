@@ -22,3 +22,4 @@
 - [1. 函數](http://mirdex.github.io/PythonII_20230208/7.%20函數_Q.slides.html)
 - [2. 類別](http://mirdex.github.io/PythonII_20230208/8.%20類別_Q.slides.html)
 - [3. 例外處理](http://mirdex.github.io/PythonII_20230208/10.%20例外處理.slides.html)
+- [4. ](http://mirdex.github.io/PythonII_20230208/0.%20Python前言(Q).slides.html)
