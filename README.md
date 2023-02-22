@@ -24,3 +24,4 @@
 - [3. 例外處理](http://mirdex.github.io/PythonII_20230208/10.%20例外處理.slides.html)
 - [4. Python Review](http://mirdex.github.io/PythonII_20230208/0.%20Python前言(Q).slides.html)
 - [5. 模組開發](http://mirdex.github.io/PythonII_20230208/1.%20模組開發(Q).slides.html)
+- [6. 檔案處理](http://mirdex.github.io/PythonII_20230208/2.%20檔案處理(一)(Q).slides.html)
