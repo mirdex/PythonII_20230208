@@ -26,3 +26,4 @@
 - [5. 模組開發](http://mirdex.github.io/PythonII_20230208/1.%20模組開發(Q).slides.html)
 - [6. 檔案處理(一)](http://mirdex.github.io/PythonII_20230208/2.%20檔案處理(一)(Q).slides.html)
 - [7. 檔案處理(二)](http://mirdex.github.io/PythonII_20230208/3.%20檔案處理(二)(Q).slides.html)
+- [8. Numpy](http://mirdex.github.io/PythonII_20230208/4.%20NumPy(一)(Q).slides.html)
